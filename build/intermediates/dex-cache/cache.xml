@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vini\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\disklrucache\4.0.0\d88059003509074dd59fa226c822724bcf5ec0ca\disklrucache-4.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d88059003509074dd59fa226c822724bcf5ec0ca">
+        <dex dex="C:\Users\Vini\Desktop\Android\MeAdota\app\build\intermediates\transforms\dex\debug\folders\1000\10\disklrucache-4.0.0_b7e4b5839dc83fff97eeee8a4186bc55f4454966\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vini\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\4.0.0\dff931af436f0a2815d0109ab2258bbce2d6275d\glide-4.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dff931af436f0a2815d0109ab2258bbce2d6275d">
+        <dex dex="C:\Users\Vini\Desktop\Android\MeAdota\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-4.0.0_945c5fbca4d885e2dbd0985cbc9286170bebaa18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vini\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\gifdecoder\4.0.0\47c487cc4e64e6ab127a517669ca9a7b49f8c61d\gifdecoder-4.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47c487cc4e64e6ab127a517669ca9a7b49f8c61d">
+        <dex dex="C:\Users\Vini\Desktop\Android\MeAdota\app\build\intermediates\transforms\dex\debug\folders\1000\10\gifdecoder-4.0.0_2d03c8bb796288676b99d897e3e74ef30c236bb7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vini\.android\build-cache\db1633fc81e29529ca6b952249b7890d50addb98\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="999ee339ca57cc5da45251a0a2c03f0ce8e83f63">
+        <dex dex="C:\Users\Vini\Desktop\Android\MeAdota\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4d6e7432f8c1fb77596fd8a6bac3875bb27a1567\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vini\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="C:\Users\Vini\Desktop\Android\MeAdota\app\build\intermediates\transforms\dex\debug\folders\1000\10\eventbus-3.0.0_0da0259f3767190db7a3f2cd1f699543dcfacd76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vini\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="C:\Users\Vini\Desktop\Android\MeAdota\app\build\intermediates\transforms\dex\debug\folders\1000\10\eventbus-3.0.0_0da0259f3767190db7a3f2cd1f699543dcfacd76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vini\Desktop\Android\MeAdota\app\libs\universal-image-loader-1.8.4-with-sources.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eba3ec78458fcb9bdd8bb7eff1a2f6f26f8fa00a">
+        <dex dex="C:\Users\Vini\Desktop\Android\MeAdota\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.8.4-with-sources_6a8a92fa9f6b7f4f33940c6766bc86df267d5369\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vini\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\disklrucache\4.0.0\d88059003509074dd59fa226c822724bcf5ec0ca\disklrucache-4.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d88059003509074dd59fa226c822724bcf5ec0ca">
+        <dex dex="C:\Users\Vini\Desktop\Android\MeAdota\app\build\intermediates\transforms\dex\debug\folders\1000\10\disklrucache-4.0.0_b7e4b5839dc83fff97eeee8a4186bc55f4454966\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vini\.android\build-cache\db1633fc81e29529ca6b952249b7890d50addb98\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="999ee339ca57cc5da45251a0a2c03f0ce8e83f63">
+        <dex dex="C:\Users\Vini\Desktop\Android\MeAdota\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4d6e7432f8c1fb77596fd8a6bac3875bb27a1567\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vini\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\Vini\Desktop\Android\MeAdota\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.4.0_f061b6d2b08821aa5d541dabf50c72fc92dcadd1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vini\.android\build-cache\58319ce0db1d04f4d7abab0878b0d09219163862\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="807751a24cf96566fd8675517c94d8463cf364db">
+        <dex dex="C:\Users\Vini\Desktop\Android\MeAdota\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ec0bd3316fbc7a0cdbe5a26a207e94352844a7d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vini\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Vini\Desktop\Android\MeAdota\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_d8a50afd35eb40ca7a5d73ee4eeb36d07aec593e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vini\Desktop\Android\MeAdota\app\libs\universal-image-loader-1.8.4-with-sources.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eba3ec78458fcb9bdd8bb7eff1a2f6f26f8fa00a">
+        <dex dex="C:\Users\Vini\Desktop\Android\MeAdota\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.8.4-with-sources_6a8a92fa9f6b7f4f33940c6766bc86df267d5369\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vini\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\annotations\4.0.0\f80192e6fd828d41c7da6f3552b0bef5d89cb26e\annotations-4.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f80192e6fd828d41c7da6f3552b0bef5d89cb26e">
+        <dex dex="C:\Users\Vini\Desktop\Android\MeAdota\app\build\intermediates\transforms\dex\debug\folders\1000\10\annotations-4.0.0_49bb10bdfe0f43d8e913819ee784874e11c44ed3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vini\.android\build-cache\5c2df24d32e7bb44cbeca7a99c8546621cb320fd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="474cccf169297d49fff89fd35b7634a7a9d1031c">
+        <dex dex="C:\Users\Vini\Desktop\Android\MeAdota\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_211a5808d8d0239b2ba34b79e76acf51a88d5a31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vini\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\gifdecoder\4.0.0\47c487cc4e64e6ab127a517669ca9a7b49f8c61d\gifdecoder-4.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47c487cc4e64e6ab127a517669ca9a7b49f8c61d">
+        <dex dex="C:\Users\Vini\Desktop\Android\MeAdota\app\build\intermediates\transforms\dex\debug\folders\1000\10\gifdecoder-4.0.0_2d03c8bb796288676b99d897e3e74ef30c236bb7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vini\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\4.0.0\dff931af436f0a2815d0109ab2258bbce2d6275d\glide-4.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dff931af436f0a2815d0109ab2258bbce2d6275d">
+        <dex dex="C:\Users\Vini\Desktop\Android\MeAdota\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-4.0.0_945c5fbca4d885e2dbd0985cbc9286170bebaa18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vini\Desktop\Android\MeAdota\app\libs\android-support-v4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5896b0a4e377ac4242eb2bc785220c1c4fc052f4">
+        <dex dex="C:\Users\Vini\Desktop\Android\MeAdota\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4_0d9f27b23f6810b0f187b827a70497cee2aa7e58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vini\Desktop\Android\MeAdota\app\libs\android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5896b0a4e377ac4242eb2bc785220c1c4fc052f4">
+        <dex dex="C:\Users\Vini\Desktop\Android\MeAdota\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4_0d9f27b23f6810b0f187b827a70497cee2aa7e58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vini\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\annotations\4.0.0\f80192e6fd828d41c7da6f3552b0bef5d89cb26e\annotations-4.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f80192e6fd828d41c7da6f3552b0bef5d89cb26e">
+        <dex dex="C:\Users\Vini\Desktop\Android\MeAdota\app\build\intermediates\transforms\dex\debug\folders\1000\10\annotations-4.0.0_49bb10bdfe0f43d8e913819ee784874e11c44ed3\classes.dex" />
+    </item>
+
+</items>

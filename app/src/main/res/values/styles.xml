@@ -1,0 +1,58 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimary_dark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowTranslucentStatus">true</item>
+    </style>
+
+    <style name="FragmentsTheme">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">@color/colorPrimary_light</item>
+    </style>
+
+    <style name="TextViewAuxiliarText">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:background">@color/colorPrimary_light</item>
+        <item name="android:textColor">@color/colorPrimary_text</item>
+    </style>
+
+    <style name="CircleImageButton">
+        <item name="android:background">@drawable/circle_image_button</item>
+    </style>
+
+    <style name="CornerBorder">
+    <item name="android:background">@drawable/border_round_corners</item>
+    <item name="android:textColor">@color/colorPrimary</item>
+    <item name="android:layout_width">match_parent</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:minHeight">40dp</item>
+</style>
+
+    <style name="Border">
+        <item name="android:background">@drawable/border</item>
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">40dp</item>
+    </style>
+
+    <style name="ButtonWithCorner" parent="CornerBorder">
+        <item name="android:textColor">@color/colorPrimary</item>
+    </style>
+
+    <style name="EditTextWithCorner" parent="CornerBorder">
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="android:paddingLeft">@dimen/padding_edittext</item>
+        <item name="android:textColorHint">@color/colorPrimary_light</item>
+
+    </style>
+
+
+</resources>

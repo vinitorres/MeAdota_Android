@@ -1,0 +1,87 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorPrimary_light"
+    tools:context=".Cadastro1Fragment">
+
+    <EditText
+        style="@style/EditTextWithCorner"
+        android:id="@+id/etNome"
+        android:hint="Nome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="32dp"
+        android:layout_marginRight="32dp"
+        android:layout_marginTop="150dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:layout_marginStart="32dp"
+        android:layout_marginEnd="32dp" />
+
+    <EditText
+        style="@style/EditTextWithCorner"
+        android:id="@+id/etSobrenome"
+        android:hint="Sobrenome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="32dp"
+        android:layout_marginRight="32dp"
+        android:layout_marginTop="8dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:layout_marginStart="32dp"
+        android:layout_marginEnd="32dp" />
+
+
+    <EditText
+        android:id="@+id/etEmail"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:layout_marginLeft="32dp"
+        android:layout_marginRight="32dp"
+        android:layout_marginTop="8dp"
+        android:ems="10"
+        style="@style/EditTextWithCorner"
+        android:hint="Email"
+        android:inputType="textEmailAddress"
+        android:layout_marginStart="32dp"
+        android:layout_marginEnd="32dp" />
+
+    <EditText
+        style="@style/EditTextWithCorner"
+        android:id="@+id/etSenha"
+        android:hint="Senha"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="32dp"
+        android:layout_marginRight="32dp"
+        android:layout_marginTop="8dp"
+        android:ems="10"
+        android:inputType="textPassword"
+        android:layout_marginStart="32dp"
+        android:layout_marginEnd="32dp" />
+
+    <Button
+        android:id="@+id/btnCadastrar"
+        android:layout_width="match_parent"
+        style="@style/CornerBorder"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="100dp"
+        android:layout_marginRight="100dp"
+        android:layout_marginTop="12dp"
+        android:text="Cadastrar"
+        android:layout_marginStart="100dp"
+        android:layout_marginEnd="100dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ou"
+        android:gravity="center"/>
+
+
+
+
+</LinearLayout>
